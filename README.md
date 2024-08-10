@@ -104,7 +104,7 @@ If you want to run the script in the background so you can exit the terminal wit
 
 ## Join Our Channel
 
-Join our channel at [OG Airdrop](https://t.me/Airdrop_OG_Hub) to get the latest updates on airdrops and other exciting promotions!
+Join our channel at [OG Airdrop](https://t.me/Airdrop_OG) to get the latest updates on airdrops and other exciting promotions!
 
 ## Contribution
 
