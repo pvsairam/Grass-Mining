@@ -104,8 +104,8 @@ If you want to run the script in the background so you can exit the terminal wit
 
 ## Join Our Channel
 
-Join our channel at [OG Airdrop] (https://t.me/Airdrop_OG_Hub) to get the latest updates on airdrops and other exciting promotions!
+Join our channel at [OG Airdrop](https://t.me/Airdrop_OG_Hub) to get the latest updates on airdrops and other exciting promotions!
 
 ## Contribution
 
-You can contribute to the development of this script by submitting a pull request or reporting an issue in the [GitHub repository] (https://github.com/pvsairam/grass-mining.git).
+You can contribute to the development of this script by submitting a pull request or reporting an issue in the [GitHub repository](https://github.com/pvsairam/grass-mining.git).
